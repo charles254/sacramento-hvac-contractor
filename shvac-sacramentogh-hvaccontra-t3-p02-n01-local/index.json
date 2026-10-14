@@ -1,0 +1,24 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P02-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "AC Compressor Lockout & Hard-Start Capacitor Kits in Sacramento",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p02-n01-local/",
+  "primaryEntity": "NATE-Certified Diagnostic Standards & EPA Section 608 Universal Refrigerant Handling",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p01-n02-local/",
+      "anchor": "How to Prepare Your Sacramento Property for HVAC Replacement",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/service-areas/elk-grove",
+    "https://sacramentohvaccontractor.net/service-areas/roseville",
+    "https://sacramentohvaccontractor.net/service-areas/folsom",
+    "https://sacramentohvaccontractor.net/service-areas/rancho-cordova"
+  ]
+}
