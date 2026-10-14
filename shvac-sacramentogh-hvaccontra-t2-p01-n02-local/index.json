@@ -1,0 +1,23 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T2-P01-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "How to Prepare Your Sacramento Property for HVAC Replacement",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p01-n02-local/",
+  "primaryEntity": "Natural Gas Furnace Heat Exchanger Crack Diagnostics & Digital Carbon Monoxide Testing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n01-local/",
+      "anchor": "Sacramento HVAC Contractor & AC Installation Guide — Homeowner Resource",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/services/furnace-repair",
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/ac-repair",
+    "https://sacramentohvaccontractor.net/services/ac-installation"
+  ]
+}
