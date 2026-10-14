@@ -1,0 +1,24 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P03-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Ductless Mini-Split Heat Pumps for Sacramento Homes & Additions",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p03-n01-local/",
+  "primaryEntity": "Elk Grove Residential Air Conditioning Repair & Compressor Service Corridor",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p01-n03-local/",
+      "anchor": "HVAC Replacement Cost Factors & SMUD Clean Energy Rebates Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/service-areas/elk-grove",
+    "https://sacramentohvaccontractor.net/service-areas/roseville",
+    "https://sacramentohvaccontractor.net/service-areas/folsom",
+    "https://sacramentohvaccontractor.net/service-areas/rancho-cordova",
+    "https://sacramentohvaccontractor.net/"
+  ]
+}
