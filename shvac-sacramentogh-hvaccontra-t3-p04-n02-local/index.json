@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P04-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "AC Condensate Drain Line Clogs & Attic Overflow Floats Sacramento",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p04-n02-local/",
+  "primaryEntity": "Rancho Cordova Commercial HVAC Maintenance & Industrial Air Handling Solutions",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n01-local/",
+      "anchor": "City of Sacramento HVAC Permit Codes & Title 24 HERS Compliance",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/service-areas/rancho-cordova",
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair"
+  ]
+}
