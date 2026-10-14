@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T1-P00-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "24/7 Emergency AC Repair & Rapid Cooling Triage in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n02-local/",
+  "primaryEntity": "SMUD Clean Energy Electrification & TECH Clean California Rebate Maximization",
+  "outgoingLinks": [
+    {
+      "url": "https://sacramentohvaccontractor.net/services/ac-repair",
+      "anchor": "ac repair sacramento ca",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair",
+    "https://sacramentohvaccontractor.net/services/ac-repair"
+  ]
+}
