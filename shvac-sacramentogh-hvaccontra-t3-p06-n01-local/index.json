@@ -1,0 +1,23 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P06-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p06-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "NATE Certified & EPA 608 Licensed HVAC Technicians in Sacramento",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p06-n01-local/",
+  "primaryEntity": "SMUD Clean Energy Electrification & TECH Clean California Rebate Maximization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n03-local/",
+      "anchor": "Commercial HVAC & Multi-Zone Climate Systems for Sacramento Businesses",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair",
+    "https://sacramentohvaccontractor.net/services/ac-repair",
+    "https://sacramentohvaccontractor.net/services/ac-installation"
+  ]
+}
