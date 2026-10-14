@@ -1,0 +1,23 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P01-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Aeroseal Duct Sealing & Static Pressure Airflow in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p01-n02-local/",
+  "primaryEntity": "Attic Thermal Envelope Decompaction, Radiant Barrier Foil & R-49 Blown Insulation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p01-n01-local/",
+      "anchor": "Signs Your AC Requires Professional Assessment in Sacramento CA",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/service-areas/elk-grove",
+    "https://sacramentohvaccontractor.net/service-areas/roseville",
+    "https://sacramentohvaccontractor.net/service-areas/folsom"
+  ]
+}
