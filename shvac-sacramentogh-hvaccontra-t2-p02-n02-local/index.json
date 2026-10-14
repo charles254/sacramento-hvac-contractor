@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T2-P02-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t2-p02-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Gas Furnace Safety Inspections, Carbon Monoxide & Heating in Sacramento",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n02-local/",
+  "primaryEntity": "AC Condensate Drain Algae Removal, Clear-Out Ports & Attic Overflow Float Switches",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency AC Repair & Rapid Cooling Triage in Sacramento CA",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/services/ac-repair",
+    "https://sacramentohvaccontractor.net/services/ac-installation",
+    "https://sacramentohvaccontractor.net/"
+  ]
+}
