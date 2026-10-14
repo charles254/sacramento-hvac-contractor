@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p05-n02-local/sitemap.xml
