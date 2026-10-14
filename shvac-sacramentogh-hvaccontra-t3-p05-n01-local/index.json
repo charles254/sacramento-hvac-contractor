@@ -1,0 +1,21 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P05-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p05-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Attic Insulation, Radiant Barriers & HVAC Load in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p05-n01-local/",
+  "primaryEntity": "Citrus Heights Furnace Safety Inspections & Gas Valve Burner Calibration",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n02-local/",
+      "anchor": "Gas Furnace Safety Inspections, Carbon Monoxide & Heating in Sacramento",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair"
+  ]
+}
