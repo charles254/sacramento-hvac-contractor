@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P06-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p06-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "R-454B & R-32 Low-GWP Refrigerant Transitions in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p06-n02-local/",
+  "primaryEntity": "Computerized Aeroseal Internal Duct Sealing & Static Pressure Airflow Optimization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n03-local/",
+      "anchor": "Commercial HVAC & Multi-Zone Climate Systems for Sacramento Businesses",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/ac-repair",
+    "https://sacramentohvaccontractor.net/services/ac-installation"
+  ]
+}
