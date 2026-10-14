@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P05-N02-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "HVAC Manufacturer vs Labor Warranties in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p05-n02-local/",
+  "primaryEntity": "California Title 24 Building Energy Standards & Mandatory HERS Verification",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n02-local/",
+      "anchor": "Gas Furnace Safety Inspections, Carbon Monoxide & Heating in Sacramento",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair",
+    "https://sacramentohvaccontractor.net/services/ac-repair"
+  ]
+}
