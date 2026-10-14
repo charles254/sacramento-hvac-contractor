@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T2-P02-N03-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Commercial HVAC & Multi-Zone Climate Systems for Sacramento Businesses",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n03-local/",
+  "primaryEntity": "Ductless Multi-Zone Mini-Split Heat Pump Engineering for Historic Sacramento Homes",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency AC Repair & Rapid Cooling Triage in Sacramento CA",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/services/ac-installation",
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/service-areas/elk-grove"
+  ]
+}
