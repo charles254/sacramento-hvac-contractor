@@ -1,0 +1,21 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T1-P00-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Sacramento HVAC Contractor & AC Installation Guide — Homeowner Resource",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n01-local/",
+  "primaryEntity": "California Title 24 Building Energy Standards & Mandatory HERS Verification",
+  "outgoingLinks": [
+    {
+      "url": "https://sacramentohvaccontractor.net/",
+      "anchor": "licensed hvac contractor in sacramento",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair"
+  ]
+}
