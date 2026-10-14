@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T3-P04-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Wildfire Smoke Filtration & Indoor Air Quality in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t3-p04-n01-local/",
+  "primaryEntity": "Folsom Smart Climate Zoning, Zoned Motorized Dampers & Airflow Balancing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n01-local/",
+      "anchor": "City of Sacramento HVAC Permit Codes & Title 24 HERS Compliance",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/service-areas/folsom",
+    "https://sacramentohvaccontractor.net/service-areas/rancho-cordova",
+    "https://sacramentohvaccontractor.net/"
+  ]
+}
