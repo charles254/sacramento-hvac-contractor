@@ -1,0 +1,22 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T2-P02-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "City of Sacramento HVAC Permit Codes & Title 24 HERS Compliance",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p02-n01-local/",
+  "primaryEntity": "Wildfire Smoke Mitigation, Deep-Pleat MERV 13 Filtration & Electronic Air Purifiers",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency AC Repair & Rapid Cooling Triage in Sacramento CA",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/ac-repair",
+    "https://sacramentohvaccontractor.net/services/ac-installation"
+  ]
+}
