@@ -1,0 +1,23 @@
+{
+  "nodeCode": "SHVAC-SACRAMENTOGH-HVACCONTRA-T2-P01-N01-LOCAL",
+  "slug": "shvac-sacramentogh-hvaccontra-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Signs Your AC Requires Professional Assessment in Sacramento CA",
+  "canonical": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t2-p01-n01-local/",
+  "primaryEntity": "Computerized Aeroseal Internal Duct Sealing & Static Pressure Airflow Optimization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/sacramento-hvac-contractor/shvac-sacramentogh-hvaccontra-t1-p00-n01-local/",
+      "anchor": "Sacramento HVAC Contractor & AC Installation Guide — Homeowner Resource",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://sacramentohvaccontractor.net/",
+    "https://sacramentohvaccontractor.net/services/furnace-repair",
+    "https://sacramentohvaccontractor.net/services/ac-repair",
+    "https://sacramentohvaccontractor.net/services/ac-installation"
+  ]
+}
